@@ -1,0 +1,30 @@
+return {
+    -- Plugin configurations
+    require("plugins.auto-pairs"),
+    require("plugins.buffer-manager"),
+    require("plugins.comment"),
+    require("plugins.completions"),
+    require("plugins.example"),
+    require("plugins.lsp-config"),
+    require("plugins.lualine"),
+    require("plugins.neo-tree"),
+    require("plugins.none-ls"),
+    require("plugins.nvim-surround"),
+    require("plugins.spotify"),
+    require("plugins.telescope"),
+    require("plugins.terminal"),
+    require("plugins.themery"),
+    require("plugins.treesitter"),
+    require("plugins.ui-modifier"),
+    require("plugins.which-key"),
+    
+    -- Theme configurations
+    require("themes.rose-pine"),
+    require("themes.gruvbox"),
+    require("themes.kanagawa-paper"),
+    require("themes.catppuccin-latte"),
+    require("themes.catppuccin-frappe"),
+    require("themes.catppuccin-mocha"),
+    require("themes.catppuccin-macchiato"),
+    require("themes.everforest"),
+}
