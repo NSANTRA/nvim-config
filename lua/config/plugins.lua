@@ -4,7 +4,7 @@ return {
     require("plugins.buffer-manager"),
     require("plugins.comment"),
     require("plugins.completions"),
-    require("plugins.example"),
+    -- require("plugins.example"),
     require("plugins.lsp-config"),
     require("plugins.lualine"),
     require("plugins.neo-tree"),
