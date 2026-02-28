@@ -11,10 +11,6 @@ return {
         config = function()
             require("mason-lspconfig").setup({
                 ensure_installed = {
-                    "lua_ls",
-                    "rust_analyzer",
-                    "harper_ls",
-                    "pyright",
                 },
                 -- You had `automatic_enable = false`, you may or may not keep that
                 automatic_enable = true,
