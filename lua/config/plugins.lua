@@ -4,9 +4,12 @@ return {
     require("plugins.buffer-manager"),
     require("plugins.comment"),
     require("plugins.completions"),
-    -- require("plugins.example"),
+
+    -- Require("plugins.Example"),
     require("plugins.lsp-config"),
     require("plugins.lualine"),
+    require("plugins.markdown-preview"),
+    require("plugins.mini-icons"),
     require("plugins.neo-tree"),
     require("plugins.none-ls"),
     require("plugins.nvim-surround"),
@@ -17,7 +20,7 @@ return {
     require("plugins.treesitter"),
     require("plugins.ui-modifier"),
     require("plugins.which-key"),
-    
+
     -- Theme configurations
     require("themes.rose-pine"),
     require("themes.gruvbox"),

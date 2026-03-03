@@ -11,3 +11,5 @@ vim.keymap.set("n", "<leader>st", ":Themery<CR>", { desc = "Open Theme Switcher"
 
 -- vim.keymap.set("n", "<leader>tt", "<cmd>ToggleTerm<CR>", { desc = "Toggle floating terminal" })
 vim.keymap.set("n", "<leader>tt", "<cmd>FloatermToggle<CR>", { desc = "Toggle floating terminal" })
+
+vim.keymap.set("t", "<Esc>", [[<C-\><C-n>]])
