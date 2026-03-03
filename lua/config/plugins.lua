@@ -30,4 +30,7 @@ return {
     require("themes.catppuccin-mocha"),
     require("themes.catppuccin-macchiato"),
     require("themes.everforest"),
+    require("themes.rusty"),
+    require("themes.bamboo"),
+    require("themes.melange"),
 }

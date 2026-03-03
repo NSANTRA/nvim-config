@@ -36,6 +36,18 @@ return {
                     name = "Catppuccin Macchiato",
                     colorscheme = "catppuccin-macchiato",
                 },
+                {
+                    name = "Rusty",
+                    colorscheme = "rusty",
+                },
+                {
+                    name = "Bamboo",
+                    colorscheme = "bamboo",
+                },
+                {
+                    name = "Melange",
+                    colorscheme = "melange",
+                },
             },
             livePreview = true,
         })
