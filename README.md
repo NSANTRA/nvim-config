@@ -29,7 +29,7 @@
 
 The configuration combines Neovim's native capabilities with a curated plugin ecosystem managed through **lazy.nvim**, with a focus on:
 
-* ⚡ Fast and responsive editing
+* Fast and responsive editing
 * Modular Lua configuration
 * LSP-powered development
 * Treesitter-based syntax understanding
