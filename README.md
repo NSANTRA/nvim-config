@@ -30,13 +30,13 @@
 The configuration combines Neovim's native capabilities with a curated plugin ecosystem managed through **lazy.nvim**, with a focus on:
 
 * ⚡ Fast and responsive editing
-* 🧩 Modular Lua configuration
-* 🧠 LSP-powered development
-* 🌳 Treesitter-based syntax understanding
-* 🔎 Telescope-powered fuzzy finding
-* ⌨️ Custom and optimized keymaps
-* 💤 Lazy-loaded plugin management
-* 🎯 A clean and distraction-free coding environment
+* Modular Lua configuration
+* LSP-powered development
+* Treesitter-based syntax understanding
+* Telescope-powered fuzzy finding
+* Custom and optimized keymaps
+* Lazy-loaded plugin management
+* A clean and distraction-free coding environment
 
 > This is a personal configuration, so it is continuously evolving alongside my development workflow.
 
@@ -44,27 +44,27 @@ The configuration combines Neovim's native capabilities with a curated plugin ec
 
 [![FEATURES](https://readme-typing-svg.herokuapp.com?font=JetBrainsMono+Nerd+Font\&letterSpacing=0.3rem\&pause=1000\&width=450\&lines=FEATURES)](https://git.io/typing-svg)
 
-### 🧩 Lua-Based Configuration
+### Lua-Based Configuration
 
 The entire configuration is written in Lua, making it easy to extend and maintain while taking advantage of Neovim's native Lua API.
 
-### 💤 Lazy Plugin Management
+### Lazy Plugin Management
 
 Plugins are managed using [`lazy.nvim`](https://github.com/folke/lazy.nvim), allowing the configuration to keep plugin management organized and optimize when plugins are loaded.
 
-### 🧠 LSP Integration
+### LSP Integration
 
 Language Server Protocol support provides IDE-like functionality directly inside Neovim, including language-aware development features.
 
-### 🌳 Treesitter
+### Treesitter
 
 Treesitter provides improved syntax highlighting and structural understanding of source code.
 
-### 🔎 Telescope
+### Telescope
 
 Telescope provides fast fuzzy-search interfaces for navigating files, buffers, and other searchable information.
 
-### ⌨️ Custom Keymaps
+### Custom Keymaps
 
 The configuration includes customized keybindings designed around a keyboard-first workflow.
 
