@@ -84,7 +84,7 @@ nvim-config/
 ├── .luarc.json         # Lua language configuration
 ├── stylua.toml         # StyLua configuration
 ├── .gitignore
-├── LICENSE             # Apache-2.0 License
+├── LICENSE             # MIT License
 └── README.md
 ```
 
