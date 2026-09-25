@@ -290,6 +290,6 @@ SOFTWARE.
 
 ---
 
-<p align="center">
-  <a href="#top">⬆ Back to top</a>
-</p>
+<div align="right">
+  <a href="#top"><kbd> <br> 🡅 Back to Top <br> </kbd></a>
+</div>
